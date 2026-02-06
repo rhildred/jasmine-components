@@ -10,7 +10,7 @@ export function snowRemoval(cm) {
     }else if(cm <= 30){
         equipment = "electric snowblower";
     }else{
-        equipment = "gas snow blower";
+        equipment = "gas snowblower";
     }
     // output
     return equipment;
